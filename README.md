@@ -1,6 +1,6 @@
-# Data Analysis Daily Work
+# Data_Analysis-DailyWork
 
-Daily Python and Data Analysis practice notebooks.
+Daily Python and Data Analysis notebooks.
 
 ## About
 This repository contains my daily Jupyter notebook work
