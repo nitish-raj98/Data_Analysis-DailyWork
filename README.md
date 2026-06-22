@@ -7,6 +7,7 @@ This repository contains my daily Jupyter notebook work
 covering Python, Pandas, SQL and Data Analysis practice.
 
 ## Tools Used
+- csv files
 - Python (Pandas, NumPy)
 - Jupyter Notebook
 - MySQL
