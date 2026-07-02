@@ -2,7 +2,7 @@
 
 A comprehensive repository showcasing **Python, SQL, and Data Analytics** projects with real-world datasets and professional analysis.
 
----
+-----
 
 ## 📋 About This Repository
 
