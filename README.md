@@ -2,7 +2,7 @@
 
 A comprehensive repository showcasing **Python, SQL, and Data Analytics** projects with real-world datasets and professional analysis.
 
------
+--
 
 ## 📋 About This Repository
 
@@ -48,3 +48,4 @@ This repository contains my daily Jupyter notebook work covering:
 ## Author
 Nitish Raj | Senior Data Analyst | New Delhi, India
 GitHub: https://github.com/nitish-raj98
+Gmail: nnitishraj2016@gmail.com
