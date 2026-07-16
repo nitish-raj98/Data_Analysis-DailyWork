@@ -1,4 +1,4 @@
-# Data Analysis Daily Work 📊
+# Data Analysis Daily WorkFlow 📊
 
 A comprehensive repository showcasing **Python, SQL, and Data Analytics** projects with real-world datasets and professional analysis.
 
