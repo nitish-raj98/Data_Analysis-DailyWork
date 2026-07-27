@@ -8,7 +8,7 @@ A comprehensive repository showcasing **Python, SQL, and Data Analytics** projec
 
 This repository contains my daily Jupyter notebook work covering:
 - **Data Cleaning & Preprocessing** using Pandas
-- **Exploratory Data Analysis (EDA)**
+- **Exploratory Data Analysis (EDA)
 - **SQL Query Analysis** with window functions and CTEs
 - **Power BI Dashboard** creation
 - **Statistical Analysis** and insights
